@@ -1,0 +1,13 @@
+.section{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+button {
+    flex-direction: column;
+    padding: 10px;
+    border-radius: 16px;
+    border: 2px solid limegreen;
+    background-color: orange;
+}
